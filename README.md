@@ -1,7 +1,7 @@
 # Secure-and-Efficient-n-Qubit-Entangled-State-Teleportation-
 This repository contains the source codes and simulation scripts for our research work:
 
-**"Secure and Efficient POPM-Based Quantum State Teleportation of Entangled State"**  
+**"Secure and Efficient POVM-Based Quantum State Teleportation of Entangled State"**  
 Published in *AVS Quantum Science*, 2025.  
 DOI: [10.1116/5.0284072](https://doi.org/10.1116/5.0284072)
 
